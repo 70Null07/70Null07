@@ -1,6 +1,6 @@
 👋 Hello everyone, I’m @70Null07.
-👀I am a student of the Reshetnev Siberian State University. I'm in my second year.
-🌱I know C++, Haskell and Python quite well.
+👀I am a student of the Reshetnev Siberian State University. I'm in my third year.
+🌱I know C++, C# Haskell and Python quite well.
 📫I am open to suggestions with participation in other projects.
 <!---
 - 👋 Hi, I’m @70Null07
