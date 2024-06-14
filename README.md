@@ -1,6 +1,6 @@
 👋 Hello everyone, I’m @70Null07.
-👀I am a student of the Reshetnev Siberian State University. I'm in my third year.
-🌱I know C++, C# Haskell and Python quite well.
+👀I am graduated student of the Reshetnev Siberian State University.
+🌱I know C++, C#, Haskell and Python quite well. My recently projects were made by C# WPF .Net Core 8, Razor Pages.
 📫I am open to suggestions with participation in other projects.
 <!---
 - 👋 Hi, I’m @70Null07
